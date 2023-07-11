@@ -85,7 +85,7 @@ let footerPart2 = () => {
     <h4>MR PORTER</h4>
 </div>
 <div id="hello2">
-    <P id="nano">© 2009 - 2022 THE OUTNET , part of YOOX NET-A-PORTER GROUP.</P>
+    <P id="nano">© 2009 - 2023 THE OUTNET , part of YOOX NET-A-PORTER GROUP.</P>
     <P>The individuals featured on this site do not endorse THE OUTNET or the products shown.</P>
 </div>
 </div>
